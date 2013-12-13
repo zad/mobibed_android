@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mobile_receiver_script">script/client/mobile_receiver.tcl</string>
+    <string name="default_script">script/client/mobile_receiver.tcl</string>
+    <string name="echo_client_script">script/client/echo_client.tcl</string>
+</resources>
